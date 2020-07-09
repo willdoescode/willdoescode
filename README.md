@@ -9,4 +9,4 @@
 - ⏰ Most recent project: <a href="https://github.com/pietales/willsautoclick">Wills Auto Clicker<a />
 - 😍 Favorite Project: <a href="https://github.com/pietales/nodebot">Discord.js Bot<a />
 
-<img src="IMG_0152 2.JPG"><img />
+<img src="https://i.kym-cdn.com/entries/icons/facebook/000/021/807/ig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"><img />
