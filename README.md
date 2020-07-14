@@ -7,7 +7,7 @@
 > 💬 Ask me about my other projects <br>
 > 📫 How to reach me: ***williamlane923@gmail.com*** <br>
 > ⚡ Fun fact: I am 13 <br>
-> ⏰ Most recent project: [Wills Auto Clicker](https://github.com/pietales/willsautoclick)
+> ⏰ Most recent project: [Wills Auto Clicker](https://github.com/pietales/willsautoclick) <br>
 > 😍 Favorite Project: [NodeJs Discord bot](https://github.com/pietales/nodebot)
 
 ## Last Commit
