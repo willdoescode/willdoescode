@@ -17,7 +17,7 @@ Who is Will? <br>
 [![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat-square)](https://paypal.me/williamdlane) 
 [![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat-square)](https://paypal.me/williamdlane) 
 
-##Follow me
+## Follow me
 > Twitter [@willdoescode](https://twitter.com/willdoescode)
 ```javascript
 if(!you.followme) {
