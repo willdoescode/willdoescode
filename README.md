@@ -13,7 +13,19 @@ Who is Will? <br>
 ## Commits
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat-square)]()
 
+##Follow me
+> Twitter [@willdoescode](https://twitter.com/willdoescode)
+```javascript
+if(!you.followme) {
+    you.clickTheLinkAbove
+    you.followme()
+}
+```
+
 ## Donate
 [![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat-square)](https://paypal.me/williamdlane) 
+[![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat-square)](https://paypal.me/williamdlane) 
+
+
 
  
