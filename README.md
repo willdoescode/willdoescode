@@ -10,7 +10,7 @@
 > ⏰ Most recent project: <a href="https://github.com/pietales/willsautoclick" target="_blank">Wills Auto Clicker<a /> <br>
 > 😍 Favorite Project: <a href="https://github.com/pietales/nodebot" target="_blank">Discord.js Bot<a />
 
-## Commits
+## Last Commit
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
 
 ## Donate
