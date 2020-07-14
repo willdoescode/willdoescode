@@ -19,9 +19,6 @@
 ## Follow me
 > Twitter [@willdoescode](https://twitter.com/willdoescode)
 
-## Suprise
-[Click for a Suprise!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 ```javascript
 if(!you.followme) {
     you.clickTheLinkAbove()
@@ -29,3 +26,5 @@ if(!you.followme) {
 }
 ```
  
+## Suprise!
+[Click for a Suprise!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
