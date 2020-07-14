@@ -21,7 +21,7 @@ Who is Will? <br>
 > Twitter [@willdoescode](https://twitter.com/willdoescode)
 ```javascript
 if(!you.followme) {
-    you.clickTheLinkAbove
+    you.clickTheLinkAbove()
     you.followme()
 }
 ```
