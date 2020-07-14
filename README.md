@@ -11,11 +11,10 @@
 > 😍 Favorite Project: <a href="https://github.com/pietales/nodebot" target="_blank">Discord.js Bot<a />
 
 ## Commits
-[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
 
 ## Donate
-[![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat-square)](https://paypal.me/williamdlane) 
-[![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat-square)](https://paypal.me/williamdlane) 
+[![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/williamdlane) 
 
 ## Follow me
 > Twitter [@willdoescode](https://twitter.com/willdoescode)
