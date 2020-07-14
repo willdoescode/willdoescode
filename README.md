@@ -1,6 +1,6 @@
 # Hi there 👋
 
-##Who is Will?
+Who is Will? <br>
 
 > 🔭 I’m currently working on creating a simple website using a node js backend <br>
 > 🌱 I’m currently learning how to use frontend web frameworks <br>
