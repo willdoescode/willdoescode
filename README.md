@@ -6,17 +6,16 @@
 
 <p align="center"> <samp>Hi, My name is William Lane. I am a highschool student interested in computer science! Though I am not the best programmer yet I am slowly working my way towards a dream job at a F.A.N.G. company</samp> 
 
-![github](https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true)
-
+<a align="center" href="Gt"><img src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"></a>
   
-<a href="top langs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact"></a>
+<a align="center" href="top langs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact"></a>
 <br/>
-## 📣 Contact Me at : <br/>
-<a href="https://instagram.com/willdoescode"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/willdoescode"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:williamlane923@gmail.com"><img src="https://img.shields.io/badge/-williamlane923@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williamlane923@gmail.com"/></a>
+<h2 align="center">📣 Contact me: </h2>
+<a align="left" href="https://instagram.com/willdoescode"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a align="center" href="https://twitter.com/willdoescode"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a align="right" href="mailto:williamlane923@gmail.com"><img src="https://img.shields.io/badge/-williamlane923@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williamlane923@gmail.com"/></a>
 
-## ⚡️ Technologies: <br>
+<h2 align="center">⚡️ Technologies</h2>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -27,7 +26,7 @@
 ![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)
 <br/>
 
-![Me](https://raw.githubusercontent.com/willdoescode/willdoescode/master/willdoescode.JPG)
+<a align="center" href="me"><img src="https://raw.githubusercontent.com/willdoescode/willdoescode/master/willdoescode.JPG"></a>
 
 <p align="center"> 
   Visitor count<br>
