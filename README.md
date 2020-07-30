@@ -15,9 +15,9 @@
 <br/>
 <h2 align="center">📣 Contact me: </h2>
 <p align="center">
-<a href="https://instagram.com/willdoescode"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/willdoescode"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:williamlane923@gmail.com"><img src="https://img.shields.io/badge/-williamlane923@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williamlane923@gmail.com"/></a>
+<a href="https://codepen.io/pietales"><img src="https://user-images.githubusercontent.com/25087769/87174133-6cf96280-c2df-11ea-9134-09bacdfb3464.png"/></a>
+<a href="https://twitter.com/willdoescode"><img src="https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png"/></a>
+<a href="mailto:williamlane923@gmail.com"><img src="https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png"/></a>
 </p>
 
 <h2 align="center">⚡️ Technologies</h2>
@@ -37,7 +37,6 @@
 <p align="center">
 <a href="https://paypal.me/williamdlane"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg?style=square"></a>
 </p>
-<h2> </h2>
 
 <h2 align="center">🌱 Recent Projects: </h2>
 
