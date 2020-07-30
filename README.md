@@ -1,12 +1,13 @@
+<div>
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="200">
 
 <p align="left"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
 
 <p align="center"> <samp>Hi, My name is William Lane. I am a highschool student interested in computer science! Though I am not the best programmer yet I am slowly working my way towards a dream job at a F.A.N.G. company</samp> 
 
-<a align="center" href="Gt"><img src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"></a>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"></p>
   
 <a align="center" href="top langs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact"></a>
 <br/>
@@ -32,3 +33,4 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/willdoescode/count.svg" />
 </p>
+</div>
