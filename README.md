@@ -32,6 +32,11 @@
 </p>
 <br/>
 
+<h2 align="center">Support me</h2>
+<p align="center">
+<a href="https://paypal.me/williamdlane"><img href="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
+</p>
+
 <p align="center">
 <a href="me"><img src="https://raw.githubusercontent.com/willdoescode/willdoescode/master/willdoescode.JPG"></a>
 </p>
