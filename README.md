@@ -6,7 +6,7 @@
 
 
 
-<p align="center"> <samp>Hi, My name is William Lane. I am a highschool student interested in computer science! Though I am not the best programmer yet I am slowly working my way towards a dream job at a <a href="https://raw.githubusercontent.com/willdoescode/willdoescode/master/what.txt">F.A.A.N.G.</a> company</samp> 
+<p align="center"> <samp>Hi, My name is William Lane. I am a highschool student interested in computer science! Though I am not the best programmer yet I am slowly working my way towards a dream job at a <a href="https://raw.githubusercontent.com/willdoescode/willdoescode/master/what.txt" target="_blank">F.A.A.N.G.</a> company</samp> 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&hide_border=false&line_height=20&title_color=ea4aed&icon_color=1b93c9&show_owner=true"></p>
 
