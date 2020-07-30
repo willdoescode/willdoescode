@@ -13,9 +13,9 @@
   
 <br/>
 <h2 align="center">📣 Contact me: </h2>
-<p align="left"><img src="https://instagram.com/willdoescode"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></p>
-<p align="center"><img src="https://twitter.com/willdoescode"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></p>
-<p align="right"><img src="mailto:williamlane923@gmail.com"><img src="https://img.shields.io/badge/-williamlane923@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williamlane923@gmail.com"></p>
+<a align="left" href="https://instagram.com/willdoescode"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a align="center" href="https://twitter.com/willdoescode"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a align="right" href="mailto:williamlane923@gmail.com"><img src="https://img.shields.io/badge/-williamlane923@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williamlane923@gmail.com"/></a>
 
 <h2 align="center">⚡️ Technologies</h2>
 <a href="js"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></a>
