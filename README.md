@@ -14,21 +14,21 @@
 <br/>
 <h2 align="center">📣 Contact me: </h2>
 <p align="center">
-<a align="left" href="https://instagram.com/willdoescode"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a align="center" href="https://twitter.com/willdoescode"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a align="right" href="mailto:williamlane923@gmail.com"><img src="https://img.shields.io/badge/-williamlane923@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williamlane923@gmail.com"/></a>
+<a href="https://instagram.com/willdoescode"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/willdoescode"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:williamlane923@gmail.com"><img src="https://img.shields.io/badge/-williamlane923@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williamlane923@gmail.com"/></a>
 </p>
 
 <h2 align="center">⚡️ Technologies</h2>
 <p align="center">
-<a href="js"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></a>
-<a href="node"><img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></a>
-<a href="pi"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"></a>
-<a href="java"><img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"></a>
-<a href="html5"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
-<a href="git"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></a>
-<a href="github"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
-<a href="os"><img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white"></a>
+<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></a>
+<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"></a>
+<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"></a>
+<a href="willdoescode"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
+<a href="https://www.apple.com/macos/catalina/"><img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white"></a>
 </p>
 <br/>
 
