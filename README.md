@@ -1,6 +1,6 @@
 <div>
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src='https://raw.githubusercontent.com/willdoescode/willdoescode/master/willdoescode.JPG' width="200">
+<img align='right' src='https://raw.githubusercontent.com/willdoescode/willdoescode/master/willdoescode.JPG' width="400">
 
 <p align="left"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
@@ -37,10 +37,6 @@
 <a href="https://paypal.me/williamdlane"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg?style=square"></a>
 </p>
 <h2> </h2>
-
-<p align="center">
-<a href="willdoescode"><img src=""></a>
-</p>
 
 <h2 align="center">🌱 Recent Projects: </h2>
 
