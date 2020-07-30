@@ -1,5 +1,5 @@
 <div>
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="200">
 
 <p align="left"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
@@ -20,6 +20,7 @@
 </p>
 
 <h2 align="center">⚡️ Technologies</h2>
+<p align="center">
 <a href="js"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></a>
 <a href="node"><img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></a>
 <a href="pi"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"></a>
@@ -28,9 +29,12 @@
 <a href="git"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></a>
 <a href="github"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
 <a href="os"><img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white"></a>
+</p>
 <br/>
 
-<a align="center" href="me"><img src="https://raw.githubusercontent.com/willdoescode/willdoescode/master/willdoescode.JPG"></a>
+<p align="center">
+<a href="me"><img src="https://raw.githubusercontent.com/willdoescode/willdoescode/master/willdoescode.JPG"></a>
+</p>
 
 <p align="center"> 
   Visitor count<br>
