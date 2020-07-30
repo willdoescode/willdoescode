@@ -34,11 +34,11 @@
 
 <h2 align="center">Support me</h2>
 <p align="center">
-<a href="https://paypal.me/williamdlane"><img href="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
+<a href="https://paypal.me/williamdlane"><img src="https://www.paypal.com/us/webapps/mpp/paypal-popup"></a>
 </p>
 
 <p align="center">
-<a href="me"><img src="https://raw.githubusercontent.com/willdoescode/willdoescode/master/willdoescode.JPG"></a>
+<a href="willdoescode"><img src="https://raw.githubusercontent.com/willdoescode/willdoescode/master/willdoescode.JPG"></a>
 </p>
 
 <h2 align="center">🌱 Recent Projects: </h2>
