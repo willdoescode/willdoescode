@@ -43,8 +43,9 @@
     <a href="https://github.com/willdoescode/willsautoclick"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willdoescode&repo=willsautoclick"></a>
 </p>
 
+<h2 align="center">Visitor count: </h2>
+
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/willdoescode/count.svg" />
 </p>
 </div>
