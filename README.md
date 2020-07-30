@@ -36,8 +36,9 @@
 <a href="me"><img src="https://raw.githubusercontent.com/willdoescode/willdoescode/master/willdoescode.JPG"></a>
 </p>
 
+<h2 align="center">🌱 Recent Projects: </h2>
+
 <p align="center">
-    🌱 Recent Projects: <br>
     <a href="https://github.com/willdoescode/nodebot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willdoescode&repo=nodebot"></a>
     <a href="https://github.com/willdoescode/willsautoclick"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willdoescode&repo=willsautoclick"></a>
 </p>
