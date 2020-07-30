@@ -34,7 +34,7 @@
 
 <h2 align="center">Support me</h2>
 <p align="center">
-<a href="https://paypal.me/williamdlane"><img src="https://www.paypal.com/us/webapps/mpp/paypal-popup"></a>
+<a href="https://paypal.me/williamdlane"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg?style=square"></a>
 </p>
 
 <p align="center">
