@@ -16,14 +16,14 @@
 <a align="right" href="mailto:williamlane923@gmail.com"><img src="https://img.shields.io/badge/-williamlane923@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williamlane923@gmail.com"/></a>
 
 <h2 align="center">⚡️ Technologies</h2>
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)
+<a href="js"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></a>
+<a href="node"><img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></a>
+<a href="pi"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"></a>
+<a href="java"><img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"></a>
+<a href="html5"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
+<a href="git"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></a>
+<a href="github"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
+<a href="os"><img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white"></a>
 <br/>
 
 <a align="center" href="me"><img src="https://raw.githubusercontent.com/willdoescode/willdoescode/master/willdoescode.JPG"></a>
