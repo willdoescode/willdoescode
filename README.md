@@ -10,7 +10,7 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&hide_border=false&line_height=20&title_color=ea4aed&icon_color=1b93c9&show_owner=true"></p>
 
-<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX"></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&line_height=33"></p>
   
 <br/>
 <h2 align="center">📣 Contact me: </h2>
