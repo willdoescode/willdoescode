@@ -36,6 +36,7 @@
 <p align="center">
 <a href="https://paypal.me/williamdlane"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg?style=square"></a>
 </p>
+<h2> </h2>
 
 <p align="center">
 <a href="willdoescode"><img src="https://raw.githubusercontent.com/willdoescode/willdoescode/master/willdoescode.JPG"></a>
