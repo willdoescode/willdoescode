@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 <p align="center">
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-  
+</p>
+<br>
   
   <a href="top langs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact"></a>
   <br/>
