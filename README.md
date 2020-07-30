@@ -21,7 +21,7 @@
 ![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)
 <br/>
 
-![Me](willdoescode.JPG)
+![Me](https://raw.githubusercontent.com/willdoescode/willdoescode/master/willdoescode.JPG)
 
 ## Visitors and Hits: <br/>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=willdoescode)
