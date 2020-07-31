@@ -8,12 +8,6 @@
 
 <p align="center"> <samp>Hi, My name is William Lane. I am a highschool student interested in computer science! Though I am not the best programmer yet I am slowly working my way towards a dream job at a <a href="https://raw.githubusercontent.com/willdoescode/willdoescode/master/what.txt" target="_blank">F.A.A.N.G.</a> company</samp> 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&hide_border=false&line_height=20&title_color=ea4aed&icon_color=1b93c9&show_owner=true"></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact"></p>
-  
-<br/>
-<h2 align="center">📣 Contact me: </h2>
 <p align="center">
 <a href="https://codepen.io/pietales"><img src="https://user-images.githubusercontent.com/25087769/87174133-6cf96280-c2df-11ea-9134-09bacdfb3464.png"/></a> &nbsp;&nbsp;
 <a href="https://twitter.com/willdoescode"><img src="https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png"/></a> &nbsp;&nbsp;
@@ -21,6 +15,12 @@
 <br>
 <br>
 </p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&hide_border=false&line_height=20&title_color=ea4aed&icon_color=1b93c9&show_owner=true"></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact"></p>
+  
+
 
 <h2 align="center">⚡️ Technologies</h2>
 <p align="center">
@@ -35,13 +35,13 @@
 </p>
 <br/>
 
-<h2 align="center">Support me</h2>
+<h2 align="center">💸 Support me</h2>
 <p align="center">
 <a href="https://paypal.me/williamdlane"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg?style=square"></a>
 <br>
 </p>
 
-<h2 align="center">🌱 Recent Projects: </h2>
+<h2 align="center">🌱 Recent Projects</h2>
 
 <p align="center">
     <a href="https://github.com/willdoescode/nodebot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willdoescode&repo=nodebot"></a>
