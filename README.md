@@ -5,15 +5,17 @@
 <a href="willdoescode"><img src="https://raw.githubusercontent.com/willdoescode/willdoescode/master/willdoescode.JPG" width="250" height="250"></a>
 </p>
 
-<p align="center">
-<a href="https://paypal.me/williamdlane"><img src="https://img.shields.io/badge/paypal-donate-success.svg?style=for-the-badge"></a>
-<br>
-</p>
+
 
 <p align="center">
 <a href="https://codepen.io/pietales"><img src="https://user-images.githubusercontent.com/25087769/87174133-6cf96280-c2df-11ea-9134-09bacdfb3464.png"/></a> &nbsp;&nbsp;
 <a href="https://twitter.com/willdoescode"><img src="https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png"/></a> &nbsp;&nbsp;
 <a href="mailto:williamlane923@gmail.com"><img src="https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png"/></a>
+<br>
+</p>
+
+<p align="center">
+<a href="https://paypal.me/williamdlane"><img src="https://img.shields.io/badge/paypal-donate-success.svg?style=for-the-badge"></a>
 <br>
 </p>
 
