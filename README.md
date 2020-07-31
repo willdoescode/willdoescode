@@ -29,7 +29,13 @@
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&hide_border=false&line_height=20&title_color=ea4aed&icon_color=1b93c9&show_owner=true"></p>
+<br>
+<br>
 
+<p align="center">
+    <a href="https://github.com/willdoescode/nodebot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willdoescode&repo=nodebot"></a>
+    <a href="https://github.com/willdoescode/willsautoclick"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willdoescode&repo=willsautoclick"></a>
+</p>
 
 <br/>
 
@@ -39,12 +45,8 @@
 <br>
 </p>
 
-<h2 align="center">🌱 Recent Projects</h2>
 
-<p align="center">
-    <a href="https://github.com/willdoescode/nodebot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willdoescode&repo=nodebot"></a>
-    <a href="https://github.com/willdoescode/willsautoclick"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willdoescode&repo=willsautoclick"></a>
-</p>
+
 
 <h2 align="center">Visitor count: </h2>
 
