@@ -1,6 +1,7 @@
 <div>
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<p align="center">
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&hide_border=false&line_height=20&title_color=ea4aed&icon_color=1b93c9&show_owner=true"></p>
+<p align="right">
 <a href="willdoescode"><img src="https://raw.githubusercontent.com/willdoescode/willdoescode/master/willdoescode.JPG" width="200" height="200"></a>
 </p>
 
@@ -26,7 +27,6 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&hide_border=false&line_height=20&title_color=ea4aed&icon_color=1b93c9&show_owner=true"></p>
 
 
 <br/>
