@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://paypal.me/williamdlane"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg?style=square"></a>
+<a href="https://paypal.me/williamdlane"><img src="https://img.shields.io/badge/paypal-donate-success.svg?style=for-the-badge"></a>
 <br>
 </p>
 
