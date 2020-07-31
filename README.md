@@ -30,7 +30,7 @@
 <a href="https://www.apple.com/macos/catalina/"><img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white"></a>
 </p>
 
-<p align="center"> <samp>Hi, My name is William Lane. I am a highschool student interested in computer science! Though I am not the best programmer yet I am slowly working my way towards a dream job at a <a href="https://raw.githubusercontent.com/willdoescode/willdoescode/master/what.txt" target="_blank">F.A.A.N.G.</a> company.</samp> 
+<p align="center"> <samp>Hi, My name is William Lane. I am a highschool student interested in computer science!<br/>Though I am not the best programmer yet I am slowly working my way towards a dream job at a <a href="https://raw.githubusercontent.com/willdoescode/willdoescode/master/what.txt" target="_blank">F.A.A.N.G.</a> company.</samp> 
 <br>
 <br>
 
