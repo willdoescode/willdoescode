@@ -5,6 +5,13 @@
 </p>
 
 <p align="center">
+<a href="https://codepen.io/pietales"><img src="https://user-images.githubusercontent.com/25087769/87174133-6cf96280-c2df-11ea-9134-09bacdfb3464.png"/></a> &nbsp;&nbsp;
+<a href="https://twitter.com/willdoescode"><img src="https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png"/></a> &nbsp;&nbsp;
+<a href="mailto:williamlane923@gmail.com"><img src="https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png"/></a>
+<br>
+</p>
+
+<p align="center">
 <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></a>
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"></a>
@@ -17,12 +24,7 @@
 
 <p align="center"> <samp>Hi, My name is William Lane. I am a highschool student interested in computer science! Though I am not the best programmer yet I am slowly working my way towards a dream job at a <a href="https://raw.githubusercontent.com/willdoescode/willdoescode/master/what.txt" target="_blank">F.A.A.N.G.</a> company</samp> 
 
-<p align="center">
-<a href="https://codepen.io/pietales"><img src="https://user-images.githubusercontent.com/25087769/87174133-6cf96280-c2df-11ea-9134-09bacdfb3464.png"/></a> &nbsp;&nbsp;
-<a href="https://twitter.com/willdoescode"><img src="https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png"/></a> &nbsp;&nbsp;
-<a href="mailto:williamlane923@gmail.com"><img src="https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png"/></a>
-<br>
-</p>
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&hide_border=false&line_height=20&title_color=ea4aed&icon_color=1b93c9&show_owner=true"></p>
 
