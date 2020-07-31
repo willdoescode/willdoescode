@@ -17,11 +17,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&hide_border=false&line_height=20&title_color=ea4aed&icon_color=1b93c9&show_owner=true"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact"></p>
-  
-
-
-<h2 align="center">⚡️ Technologies</h2>
 <p align="center">
 <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></a>
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></a>
