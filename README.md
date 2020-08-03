@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<a href="https://www.reddit.com/user/csgobobster/posts/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" width="22"/></a> &nbsp;
+<a href="https://www.reddit.com/user/csgobobster"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" width="22"/></a> &nbsp;
 <a href="https://twitter.com/willdoescode"><img src="https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png"/></a> &nbsp;&nbsp;
 <a href="mailto:williamlane923@gmail.com"><img src="https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png"/></a> &nbsp
 <a href="https://instagram.com/willdoescode"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22"></a>
