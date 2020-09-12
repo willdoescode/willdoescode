@@ -6,6 +6,3 @@
 ![Willdoescode github stats](https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&theme=radical&hide=["stars"])
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willdoescode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### Have A Joke
-![joke](https://readme-jokes.vercel.app/api)
