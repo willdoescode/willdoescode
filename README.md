@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willdoescode&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willdoescode" alt="willdoescode" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willdoescode&theme=onedark" alt="willdoescode" /></a> </p>
 
 - 🔭 I’m currently working on [nat - the 'ls' replacement you never knew you needed](https://github.com/willdoescode/nat)
 
