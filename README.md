@@ -33,3 +33,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=willdoescode&show_icons=true&locale=en&theme=gruvbox" alt="willdoescode" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&locale=en&theme=gruvbox" alt="willdoescode" /></p>
+
+## nat Stargazers
+
+[![Stargazers over time](https://starchart.cc/willdoescode/nat.svg)](https://github.com/willdoescode/nat)
