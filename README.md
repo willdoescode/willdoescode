@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **williamlane923@gmail.com**
 
-- ⚡ Fun fact **I use SpaceVim as my primary ide**
+- ⚡ Fun fact **I use Vim as my primary ide**
 
 
 <h3 align="left">Connect with me:</h3>
