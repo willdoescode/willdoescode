@@ -6,7 +6,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=willdoescode&show_icons=true&locale=en&theme=nord" alt="willdoescode" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willdoescode&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p>
 
-- 🔭 I’m currently working on [nat - the 'ls' replacement you never knew you needed](https://github.com/willdoescode/nat)
+- 🔭 I’m currently working on [nat-poc - The proof of concept nat re-write](https://github.com/willdoescode/nat-poc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
