@@ -7,6 +7,17 @@
 
 - 🔭 I’m currently working on [Paksir - Cross platform asynchronous package manager written in go](https://github.com/willdoescode/paksir)
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Effective Interfaces In Golang](https://dev.to/willdoescode/effective-interfaces-in-golang-3l3n)
+- [How to operator overload in Rust.](https://dev.to/willdoescode/how-to-operator-overload-in-rust-33cp)
+<!-- BLOG-POST-LIST:END -->
+
+## nat Stargazers
+
+[![Stargazers over time](https://starchart.cc/willdoescode/nat.svg)](https://github.com/willdoescode/nat)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="willdoescode" height="30" width="40" /></a>
@@ -17,13 +28,3 @@
 <a href="https://instagram.com/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="willdoescode" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="willdoescode" height="30" width="40" /></a>
 </p>
-
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Effective Interfaces In Golang](https://dev.to/willdoescode/effective-interfaces-in-golang-3l3n)
-- [How to operator overload in Rust.](https://dev.to/willdoescode/how-to-operator-overload-in-rust-33cp)
-<!-- BLOG-POST-LIST:END -->
-
-## nat Stargazers
-
-[![Stargazers over time](https://starchart.cc/willdoescode/nat.svg)](https://github.com/willdoescode/nat)
