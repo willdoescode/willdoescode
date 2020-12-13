@@ -21,6 +21,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to operator overload in Rust.](https://dev.to/willdoescode/how-to-operator-overload-in-rust-33cp)
 <!-- BLOG-POST-LIST:END -->
 
 ## nat Stargazers
