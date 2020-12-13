@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willdoescode&theme=nord" alt="willdoescode" /></a> </p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&locale=en&theme=nord" alt="willdoescode" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=willdoescode&show_icons=true&locale=en&theme=nord" alt="willdoescode" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=willdoescode&count_private=true&show_icons=true&include_all_commits=true&title_color=7460E1&icon_color=7460E1&theme=nord&hide=issues,prs" alt="willdoescode" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willdoescode&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p>
 
 - 🔭 I’m currently working on [Paksir - Cross platform asynchronous package manager written in go](https://github.com/willdoescode/paksir)
