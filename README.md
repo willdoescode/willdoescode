@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nalin Angrish</h1>
 <h3 align="center">A 15 year old developer from India!</h3>
 
+
+
+<p align="center">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nalin-2005&theme=onedark&margin-w=15&margin-h=15&column=7" alt="Nalin-2005" /></a> </p>
 
 <div>
@@ -12,9 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nalin-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Nalin-2005" /> </p>
 
-- 🔭 I’m currently working on writing Doclets for JavaDoc
-
-
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,7 +35,7 @@
     <img align="center" src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/pypi.svg" height="30" width="30" >
   </a>
   <a href="https://nalinstudios.herokuapp.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/website.png" height="30" width="30" >
+    <img align="center" src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/website.svg" height="30" width="30" >
   </a>
   
 
