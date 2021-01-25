@@ -4,17 +4,12 @@
 
 
 <p align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nalin-2005&margin-w=15&margin-h=15&column=7" alt="Nalin-2005" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nalin-2005"/></a> </p>
 
-<div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Nalin-2005&count_private=true&include_all_commits=true" alt="Nalin-2005" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin-2005&layout=compact" />
+<div align="center">
+<img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=Nalin-2005&count_private=true&include_all_commits=true" />
+<img height=150 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin-2005&layout=compact" />
 </div>
-
-<br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nalin-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Nalin-2005" /> </p>
-
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -37,6 +32,9 @@
   <a href="https://nalinstudios.herokuapp.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/website.svg" height="30" width="30" >
   </a>
-  
+</p>
 
+---
+<p align="center">
+    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>
 </p>
