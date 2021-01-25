@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nalin Angrish</h1>
-<h3 align="center">A 15 year old developer from India!</h3>
+<h3 align="center">A 15 year old developer based in India!</h3>
 
 
 
 <p align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nalin-2005&theme=onedark&margin-w=15&margin-h=15&column=7" alt="Nalin-2005" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nalin-2005&margin-w=15&margin-h=15&column=7" alt="Nalin-2005" /></a> </p>
 
 <div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Nalin-2005&count_private=true&include_all_commits=true&theme=onedark" alt="Nalin-2005" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin-2005&layout=compact&theme=onedark" />
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Nalin-2005&count_private=true&include_all_commits=true" alt="Nalin-2005" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin-2005&layout=compact" />
 </div>
 
 <br/>
