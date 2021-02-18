@@ -11,29 +11,6 @@
 <img height=150 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin-2005&layout=compact" />
 </div>
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://stackoverflow.com/users/12025232/nalin-yo" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/stackoverflow.svg" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/nalin_2005" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/instagram.svg" height="30" width="30" />
-  </a>
-  <a href="https://https://www.quora.com/profile/Nalin-Angrish" target="_blank">
-    <img align="center" src='https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/quora.svg' height="30" width="30" >
-  </a>
-  <a href="https://www.youtube.com/channel/UCfvzT4VCQRebG8wM2kXkUEw" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/youtube.svg" height="30" width="30" >
-  </a>
-  <a href="https://pypi.org/user/nalinstudios/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/pypi.svg" height="30" width="30" >
-  </a>
-  <a href="https://nalinstudios.herokuapp.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/website.svg" height="30" width="30" >
-  </a>
-</p>
-
 ---
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>
