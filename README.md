@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willdoescode&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p>
 
-- 🔭 I’m currently working on Rust and Haskell
+- 🔭 I’m currently working on [Zig](https://ziglang.org/) and [Elixir](https://elixir-lang.org/)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
