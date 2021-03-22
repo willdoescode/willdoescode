@@ -9,8 +9,9 @@
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=Nalin-2005&count_private=true&include_all_commits=true" />
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin-2005&layout=compact" />
 </p>
-<br>
-<hr><br>
+<br />
+
+<hr /><br />
 ### About me   
 I am Nalin Angrish, a Schoolboy, Art Lover, and an Enthusiastic Coder. In the present age of technology, the whole world is trying to participate in its development and I wish to contribute to Open Source ideas and innovations which can be used by one and all. I also wish to help others like me who want to learn to code and need any help.   
 ### My Favourite creation   
@@ -23,7 +24,8 @@ I am a student and I learn to code and build some real-life projects. I create a
 <img src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/quora.svg" height=25> Quora: [Nalin Angrish](https://www.quora.com/profile/Nalin-Angrish)    
 <img src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/youtube.svg" height=25> Youtube: [Nalin Angrish's Tech Blog](https://www.youtube.com/channel/UCdKMo5QJTKguD8j_BRNJlKw)    
 <img src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/website.svg" height=25> My Website: [https://www.nalinangrish.me](https://www.nalinangrish.me)    
-<br><br>
+<br /><br />
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>
 </p>
+
