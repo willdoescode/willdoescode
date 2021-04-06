@@ -1,3 +1,3 @@
 ```rust
-return void;
+return;
 ```
