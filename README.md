@@ -1,5 +1,3 @@
-```php
-<?php
+```c
 return void;
-?>
 ```
