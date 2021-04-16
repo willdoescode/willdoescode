@@ -3,11 +3,11 @@
 
 
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Nalin-2005" /> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Nalin-2005&theme=monokai" /> </p>
 
 <p align="center">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=Nalin-2005&count_private=true&include_all_commits=true" />
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin-2005&layout=compact" />
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=Nalin-2005&count_private=true&include_all_commits=true&theme=radical&show_icons=true" />
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin-2005&layout=compact&theme=radical&langs_count=10" />
 </p>
 <br />
 
