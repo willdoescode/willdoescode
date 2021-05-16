@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willdoescode&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p>
 
-- 🔭 I’m currently working on [Haskell](https://www.haskell.org/) and [Rust](http://rust-lang.org/)
+- 🔭 I’m currently working on [Crystal](https://crystal-lang.org/), [Haskell](https://www.haskell.org/), and [Rust](http://rust-lang.org/)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
