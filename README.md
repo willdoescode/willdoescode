@@ -22,7 +22,7 @@
 <ul>
 <li><img src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/instagram.svg" height=15> Instagram: <a href="https://www.instagram.com/nalin_2005">@nalin_2005</a></li>
 <li><img src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/quora.svg" height=15> Quora: <a href="https://www.quora.com/profile/Nalin-Angrish">Nalin Angrish</a></li>
-<li><img src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/youtube.svg" height=15> Youtube: <a href="https://www.youtube.com/channel/UCdKMo5QJTKguD8j_BRNJlKw">Nalin Angrish's Tech Blog</a></li>
+<li><img src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/youtube.svg" height=15> Youtube: <a href="https://www.youtube.com/channel/UCfvzT4VCQRebG8wM2kXkUEw">Nalin Angrish</a></li>
 <li><img src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/patreon.svg" height=15> Patreon: <a href="https://www.patreon.com/nalinangrish">Nalin Angrish</a></li>
 <li><img src="https://raw.githubusercontent.com/Nalin-2005/Nalin-2005/master/icons/website.svg" height=15> My Website: <a href="https://www.nalinangrish.me">www.nalinangrish.me</a></li>
 </ul>
