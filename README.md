@@ -9,6 +9,9 @@
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=Nalin-2005&count_private=true&include_all_commits=true&theme=radical&show_icons=true" />
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin-2005&layout=compact&theme=radical&langs_count=10" />
 </p>
+<p align="center">
+<img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nalin-2005&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
 <br />
 
 <hr /><br />
