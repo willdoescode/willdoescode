@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William Lane</h1>
-<h3 align="center">A 14 year old developer from Washington State</h3>
+<h3 align="center">A 15 year old developer from Washington State</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willdoescode&theme=onedark&margin-w=15&margin-h=15&column=7" alt="willdoescode" /></a> </p>
 
