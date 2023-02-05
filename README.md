@@ -23,7 +23,7 @@
 <p><a href="http://www.nalinangrish.me/apps/iscan">IScan - The Indian Scanner App</a> This is a purely Indian Scanner app that provides you with an easy to use interface, quick usage and completely safe way of scanning as PDFs, Saving and Sharing them. This app turns your Android device into a fast, lightweight and portable document scanner. This application allows you to easily scan documents and share them using your preferred mode of file sharing.</p>
 <h1>Connect with me</h1>
 <ul>
-<li><img src="https://raw.githubusercontent.com/Nalin-Angrish/Nalin-Angrish/master/icons/instagram.svg" height=15> Instagram: <a href="https://www.instagram.com/nalin_2005">@nalin_2005</a></li>
+<li><img src="https://raw.githubusercontent.com/Nalin-Angrish/Nalin-Angrish/master/icons/instagram.svg" height=15> Instagram: <a href="https://www.instagram.com/nalin_angrish">@nalin_angrish</a></li>
 <li><img src="https://raw.githubusercontent.com/Nalin-Angrish/Nalin-Angrish/master/icons/quora.svg" height=15> Quora: <a href="https://www.quora.com/profile/Nalin-Angrish">Nalin Angrish</a></li>
 <li><img src="https://raw.githubusercontent.com/Nalin-Angrish/Nalin-Angrish/master/icons/youtube.svg" height=15> Youtube: <a href="https://www.youtube.com/channel/UCfvzT4VCQRebG8wM2kXkUEw">Nalin Angrish</a></li>
 <li><img src="https://raw.githubusercontent.com/Nalin-Angrish/Nalin-Angrish/master/icons/website.svg" height=15> My Website: <a href="https://www.nalinangrish.me">www.nalinangrish.me</a></li>
